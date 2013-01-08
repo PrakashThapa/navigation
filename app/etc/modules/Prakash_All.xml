@@ -1,0 +1,8 @@
+<config>
+    <modules>
+       <Prakash_Catalog>
+        	<active>true</active>
+            <codePool>local</codePool>
+        </Prakash_Catalog>
+    </modules>
+</config>

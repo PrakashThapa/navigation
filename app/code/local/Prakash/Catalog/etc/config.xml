@@ -1,0 +1,17 @@
+<config>
+	<modules>
+		<Prakash_Catalog>
+			<version>0.1.0</version>
+		</Prakash_Catalog>
+	</modules>
+	<global>
+		<blocks>
+			<catalog>
+				<rewrite>
+					<navigation>Prakash_Catalog_Block_Navigation</navigation>
+				</rewrite>
+			</catalog>
+		</blocks>
+	</global>
+
+</config>
